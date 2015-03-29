@@ -15,4 +15,9 @@ public class MyActivity extends Activity {
     public void methodl(){
         int x =2;
     }
+
+    public void start(){
+        int x = 1;
+        x++;
+    }
 }

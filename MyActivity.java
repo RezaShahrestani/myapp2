@@ -12,12 +12,14 @@ public class MyActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
     }
-    public void methodl(){
-        int x =2;
-    }
+    
+    
 
     public void start(){
         int x = 1;
         x++;
+    }
+    public void methodl() {
+        int x = 2;
     }
 }

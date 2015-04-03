@@ -24,5 +24,7 @@ public class MyActivity extends Activity {
     }
 
 
-    
+    public static void main(String[] args) {
+        
+    }
 }

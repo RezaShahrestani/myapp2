@@ -23,8 +23,8 @@ public class MyActivity extends Activity {
         int x = 2;
     }
 
-
+    int s = 10;
     public static void main(String[] args) {
-        
+
     }
 }
